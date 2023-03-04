@@ -1,5 +1,6 @@
-## Bem vindo(a) ao meu perfil!
+# 💫 About Me:
+Estou iniciando na área de programação. No momento estou aprendendo o básico da carreira front-end e já tenho certificados em HTML e CSS pela DevMedia.
 
-Meu nome é Henrique e eu me apaixonei por programação trabalhando como estagiário de Marketing em uma empresa de tecnologia entre 2021 e 2022.
 
-Agora, em 2023, estou tirando do papel meus planos para me tornar progrmador Back-End, portanto, ainda sou novato na área e estou focado em aprender o básico primeiro.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
